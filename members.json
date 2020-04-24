@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "name": "Mogaka James",
+        "tel": "0716673460",
+        "email":"mogakajames96@gmail.com",
+        "hire_for": "Software Dev"
+
+    },
+    {
+        "id": 2,
+        "name": "Greg Omoke",
+        "tel": "0713792270",
+        "rmail":"okaragreg@gmail.com",
+        "hire_for": "Software Dev"
+
+    },
+    {
+        "id": 3,
+        "name": "Danny Jay",
+        "tel": "0753665995",
+        "email":"dannyjay@gmail.com",
+        "hire_for": "Software Dev"
+
+    }
+
+]
